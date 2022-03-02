@@ -16,7 +16,7 @@
         },
         "BOT_TOKEN": {
             "description": "Put Bot Token Of Your Bot",
-            "required": true
+            "required": false
         },
         "STRING_SESSION": {
             "description": "Pyrogram String Session",
